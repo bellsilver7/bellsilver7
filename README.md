@@ -23,9 +23,9 @@ Here are some ideas to get you started:
 ## Languages and Tools :
 
 ![PHP](https://img.shields.io/badge/Code-PHP-777BB4?style=flat&logo=php&logoColor=ffffff)
+![Laravel](https://img.shields.io/badge/Framework-Laravel-FF2D20?style=flat&logo=laravel&logoColor=ffffff)
 ![Javascript](https://img.shields.io/badge/Code-Javascript-F7DF1E?style=flat&logo=javascript&logoColor=ffffff)
 ![Node.js](https://img.shields.io/badge/Code-Node.js-339933?style=flat&logo=Node.js&logoColor=ffffff)
-![Laravel](https://img.shields.io/badge/Framework-Laravel-FF2D20?style=flat&logo=laravel&logoColor=ffffff)
 ![MySQL](https://img.shields.io/badge/Tool-MySQL-4479A1?style=flat&logo=mysql&logoColor=ffffff)
 ![Git](https://img.shields.io/badge/Tool-Git-F05032?style=flat&logo=git&logoColor=ffffff)
 ![Phpstorm](https://img.shields.io/badge/Editor-Phpstorm-00A98F?style=flat&logo=phpstorm&logoColor=ffffff)
