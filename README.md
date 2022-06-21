@@ -22,14 +22,15 @@ Here are some ideas to get you started:
 
 ## Languages and Tools :
 
-![PHP](https://img.shields.io/badge/Code-PHP-00A98F?style=flat&logo=php&logoColor=ffffff)
-![Javascript](https://img.shields.io/badge/Code-Javascript-00A98F?style=flat&logo=javascript&logoColor=ffffff)
-![Laravel](https://img.shields.io/badge/Framework-Laravel-00A98F?style=flat&logo=laravel&logoColor=ffffff)
-![MySQL](https://img.shields.io/badge/Tool-MySQL-00A98F?style=flat&logo=mysql&logoColor=ffffff)
-![Git](https://img.shields.io/badge/Tool-Git-00A98F?style=flat&logo=git&logoColor=ffffff)
+![PHP](https://img.shields.io/badge/Code-PHP-777BB4?style=flat&logo=php&logoColor=ffffff)
+![Javascript](https://img.shields.io/badge/Code-Javascript-F7DF1E?style=flat&logo=javascript&logoColor=ffffff)
+![Node.js](https://img.shields.io/badge/Code-Node.js-339933?style=flat&logo=Node.js&logoColor=ffffff)
+![Laravel](https://img.shields.io/badge/Framework-Laravel-FF2D20?style=flat&logo=laravel&logoColor=ffffff)
+![MySQL](https://img.shields.io/badge/Tool-MySQL-4479A1?style=flat&logo=mysql&logoColor=ffffff)
+![Git](https://img.shields.io/badge/Tool-Git-F05032?style=flat&logo=git&logoColor=ffffff)
 ![Phpstorm](https://img.shields.io/badge/Editor-Phpstorm-00A98F?style=flat&logo=phpstorm&logoColor=ffffff)
-![Vscode](https://img.shields.io/badge/Editor-Vscode-00A98F?style=flat&logo=visualstudiocode&logoColor=ffffff)
-![Linux](https://img.shields.io/badge/OS-Linux-00A98F?style=flat&logo=linux&logoColor=ffffff)
+![Vscode](https://img.shields.io/badge/Editor-Vscode-007ACC?style=flat&logo=visualstudiocode&logoColor=ffffff)
+![Linux](https://img.shields.io/badge/OS-Linux-FCC624?style=flat&logo=linux&logoColor=ffffff)
 <!-- ![Typescript](https://img.shields.io/badge/-Typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=ffffff) -->
-<!-- ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=ffffff) -->
+
 <!-- ![Svelte](https://img.shields.io/badge/-Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=ffffff) -->
