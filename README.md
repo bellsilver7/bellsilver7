@@ -2,7 +2,8 @@
 
 # Hello, folks! <img data-target="animated-image.replacedImage" alt="wave.gif" class="AnimatedImagePlayer-animatedImage" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px" style="display: block; opacity: 1;">
 
-My name is Jong Eun Lee and I'm a greedy and passionate software developer. 
+My name is Jong Eun Lee and I'm a greedy and passionate software developer.
+
 I'm from Korea, living in seoul and currently working at JasonGroup.
 
 <!--
